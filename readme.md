@@ -1,7 +1,8 @@
-# Laravel Documentation
+# Laravel Documentation - النسخة العربية
 
-You can find the online version of the Laravel documentation at [https://laravel.com/docs](https://laravel.com/docs)
+- ترجمة توثيق Laravel الرسمي إلى اللغة العربية
 
-## Contribution Guidelines
-
-If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for Laravel 12 would be submitted to the `12.x` branch. Documentation intended for the next release of Laravel should be submitted to the `master` branch.
+* هذا المشروع يهدف لتقديم محتوى توثيقي دقيق ومحدث لإطار Laravel باللغة العربية، لمساعدة المطورين العرب على التعلم والاستخدام بشكل أفضل
+---
+**ملف last_commit.me**
+هيتكتب فيه تاريخ اخر تحديث للريبو فقا لأخر commit في التوثيق الرسمي بحيث تكون على اطلاع بأخر التحديثات المترجمة
